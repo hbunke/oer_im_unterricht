@@ -38,7 +38,7 @@ didaktischen Implementierung im Unterricht generell zu beschreiben.
 Abschließend werden Kriterien formuliert, die in einer eigenen UE mit OER
 Materialien überprüft werden sollen. Die Ergebnisse dieser Überprüfung sind
 (erstmal) nicht mehr Bestandteil dieser Arbeit, sondern werden in einem
-Kolloquim vorgestellt. Nachfolgend wird das natürlich diesem Repository und dem
+Kolloquium vorgestellt. Nachfolgend wird das natürlich diesem Repository und dem
 Text hinzugefügt.
 
 Wer nicht hier auf GitHub Kommentare abgeben möchte, kann mir auch gerne eine
