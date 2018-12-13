@@ -17,7 +17,7 @@ Experiment:
     Issues!
 
 Es ist zu beachten, dass die Arbeit nicht länger als zwölf DIN A4 Seiten mit
-28-30 Zeilen pro Seite sein darf. Das entspricht noch nicht mal einem
+28-31 Zeilen pro Seite sein darf. Das entspricht noch nicht mal einem
 wissenschaftlichen Artikel und zwingt an einigen Stellen zu Verkürzungen.
 Weiterhin schreiben die Regularien vor, dass Bezug und Bedeutung für meine
 _persönliche_ Lehrerpraxis erkennbar sein müssen, was gelegentlich zu sonst in
@@ -46,4 +46,3 @@ Mail an bunke@hbxt.org schreiben.
 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-

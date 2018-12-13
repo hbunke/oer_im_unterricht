@@ -1,0 +1,20 @@
+---
+# fonts with TeXLive: http://www.tug.dk/FontCatalogue/
+# fonts with xelatex: System
+papersize: a4
+fontfamily: lmodern
+# fontfamily: newpxtext
+# fontfamily: kpfonts
+fontsize: 12pt
+linestretch: 1.5
+margin-left: 4cm
+margin-right: 2cm
+margin-top: 2cm
+margin-bottom: 2cm
+documentclass: article
+lang: de-DE
+numbersections: true
+titleformat:
+    setstretch: 1
+
+---
