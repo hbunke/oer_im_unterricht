@@ -1,20 +1,20 @@
 ---
 # fonts with TeXLive: http://www.tug.dk/FontCatalogue/
 # fonts with xelatex: System
-papersize: a4
-fontfamily: lmodern
 # fontfamily: newpxtext
 # fontfamily: kpfonts
+fontfamily: lmodern # default
 fontsize: 12pt
+papersize: a4
 linestretch: 1.5
-margin-left: 4cm
+margin-left: 3.3cm
 margin-right: 2cm
 margin-top: 2cm
 margin-bottom: 2cm
 documentclass: article
 lang: de-DE
 numbersections: true
-titleformat:
-    setstretch: 1
-
+header-includes:
+    - \usepackage[german=guillemets]{csquotes}  # automatische Anführungszeichen
+# bibliography: OER.bib  # not used
 ---
