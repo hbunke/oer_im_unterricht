@@ -1,0 +1,27 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: >-
+  Open Educational Ressources (OER) im Unterricht. Begründung und
+  kriterienorientierte Erprobung
+description: Abschlussarbeit Referendariat
+license: https://creativecommons.org/licenses/by/4.0/
+id: https://github.com/hbunke/oer_im_unterricht
+creator:
+  - givenName: Hendrik
+    familyName: Bunke
+    id: 0000-0002-1516-2382
+    type: Person
+keywords:
+  - OER
+  - Schule
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/text
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_B
+datePublished: '2019-10-19'
